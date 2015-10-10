@@ -7,6 +7,7 @@
     "url": "git://github.com/metropolislights/webgl-editor.git"
   },
   "dependencies": {
+    "requirejs": "2.1.20",
     "three.js": "0.72.0"
   }
 }
